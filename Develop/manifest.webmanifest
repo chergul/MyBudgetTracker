@@ -1,6 +1,6 @@
 {
   "name": "MyBudgetTracker",
-  "short_name": "Map PWA",
+  "short_name": "Budget",
   "start_url": ".",
   "background_color": "#cadbda",
   "theme_color": "#cadbda",
