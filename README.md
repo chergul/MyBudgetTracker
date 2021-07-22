@@ -1,4 +1,4 @@
-# My Budget Racker: Online/Offline Budget Trackers
+# My Budget Tracker: Online/Offline Budget Trackers
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online. (Ofline functionalities are deposite offline and expenses ofline. When brought back online, offline entries should be added to tracker)
 
