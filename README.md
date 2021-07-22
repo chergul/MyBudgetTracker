@@ -4,17 +4,38 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 You can clone this repo.
 
-git clone https://chergul.github.io/Workout-Tracker-NoSQL/
+git clone `https://github.com/chergul/MyBudgetTracker.git`
 
-## For heroku deployment
+## Table of Contents
+
+- [Heroku deployment](#heroku-deployment)
+- [Video of the App](#video-of-the-app)
+- [Installation](#installation)
+- [Technologies](#technologies)
+- [Questions](#questions)
+
+
+### Heroku Deployment
 
 
 
-## Video for the app
+### Video of the app
 ​
 ![Demo](./Assets/demo.gif)
 
-## Questions
+### Installation
+```
+nmp install 
+nmp install express
+nmp install mongoose
+```
+
+### Technologies
+
+***HTML, CSS, Bootstrap, JavaScript, IndexedDB, MongoDB***
+
+### Questions
+
 If you have any questions about this repo, you can open an issue, or contact directly at 
-ceyda_hergul@hotmail.com
+`ceyda_hergul@hotmail.com`
 Pull requests are welcome
