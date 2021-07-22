@@ -50,6 +50,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   <script src="index.js"></script>
+  <script src="indexDb.js"></script>
   <!-- Service worker script -->
   <script>
     if ('serviceWorker' in navigator) {
@@ -64,13 +65,6 @@
         });
     }
   </script>
-  <script>
-    // IndexDB for offline browser
-    const request= indexedDB.open("firstDatebase",1);
-    
-    request.onsuccess=event => {
-      console.log(request.result);
-    };
-    </script>
+
 </body>
 </html>
