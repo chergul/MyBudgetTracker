@@ -1,4 +1,4 @@
-    // IndexDB for offline browser
+// IndexDB for offline browser
 
 let db;
 let budgetVersion;
